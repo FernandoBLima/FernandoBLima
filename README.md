@@ -7,7 +7,7 @@
 
 ## 👨‍🚀 You can find me here 🌍
 * 💼 &nbsp; [Linkedin](https://www.linkedin.com/in/fernando-baptistella/)
-* 📍 &nbsp; [Website](https://fernandoblima.github.io/)
+<!-- * 📍 &nbsp; [Website](https://fernandoblima.github.io/) -->
 
 
 
